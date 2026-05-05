@@ -1,0 +1,12 @@
+
+> psira-api@1.0.0 prebuild
+> rimraf dist
+
+
+> psira-api@1.0.0 build
+> npm run prebuild && nest build
+
+
+> psira-api@1.0.0 prebuild
+> rimraf dist
+
